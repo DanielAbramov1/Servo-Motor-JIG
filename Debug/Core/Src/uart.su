@@ -1,0 +1,4 @@
+../Core/Src/uart.c:25:6:USER_UART_IRQHandler	24	static
+../Core/Src/uart.c:57:6:setup_uart	8	static
+../Core/Src/uart.c:65:5:IsDataAvailable	8	static
+../Core/Src/uart.c:71:5:read_serial_all	32	static

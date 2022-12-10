@@ -1,0 +1,3 @@
+../Core/Src/servo.c:18:6:servo_init	24	static
+../Core/Src/servo.c:35:6:servo_move	24	static
+../Core/Src/servo.c:47:6:servo_release	16	static

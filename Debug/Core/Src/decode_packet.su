@@ -1,0 +1,3 @@
+../Core/Src/decode_packet.c:15:5:decode_packet	128	static
+../Core/Src/decode_packet.c:71:6:split_command	32	static
+../Core/Src/decode_packet.c:123:5:getposition	32	static

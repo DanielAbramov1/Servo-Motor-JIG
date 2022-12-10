@@ -1,0 +1,5 @@
+../Core/Src/eeprom.c:31:5:read_char_from_eeprom_address	48	static
+../Core/Src/eeprom.c:63:5:write_char_to_eeprom_address	88	static
+../Core/Src/eeprom.c:82:8:offset_from_eeprom	32	static
+../Core/Src/eeprom.c:103:6:eeprom_test	160	static
+../Core/Src/eeprom.c:122:6:eeprom_check_prod	16	static
